@@ -1,4 +1,4 @@
-# Digikey-Inventree-Integration
+# Digikey-Mouser-Inventree-Integration
 [![Test Results](https://github.com/EUdds/digikey-inventree-integration/actions/workflows/python-test.yaml/badge.svg?branch=main)](https://github.com/EUdds/digikey-inventree-integration/actions/workflows/python-test.yaml)
 [![PyPI version](https://badge.fury.io/py/inventree_digikey_integration.svg)](https://badge.fury.io/py/inventree_digikey_integration)
 
